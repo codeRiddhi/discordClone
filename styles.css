@@ -25,3 +25,45 @@
     background-color: #04AA6D;
     color: white;
 }
+.Discord{
+    padding: 10px;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.active{
+    padding-left: 10px ;
+    margin-top: 25px;
+    margin-left: 450px;
+}
+
+.nitro{
+    padding-left: 10px ;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.discover{
+    margin-top: 25px;
+}
+
+.safety, .carrier, .blog{
+    padding-left: 10px ;
+    margin-top: 25px;
+}
+
+.nav-buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    border-left: 10%;
+}
+.center-box{
+    display: flex;
+    padding-left: 10%;
+}
+.para{
+    width: 20%;
+    padding-left: 10%;
+}
