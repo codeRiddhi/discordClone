@@ -1,0 +1,46 @@
+
+*{
+    background-color: #7289da;
+}
+.container1 {
+    display: flex;
+    margin: auto;
+}
+
+.container-img1 {
+    padding-top: 30%;
+    display: flex;
+    padding-left: 10%;
+    width: 50%;
+}
+
+.container2{
+    
+    display: flex;
+    margin: auto;
+    
+}
+.container-img2{
+    padding-top: 30%;
+    display: flex;
+    padding-left: 10%;
+    width: 50%;
+}
+.description{
+    padding-top: 32%;
+    padding-left: 5%;
+    width: 30%;
+}
+
+.container3{
+    display: flex;
+        margin: auto;
+
+
+}
+.container-img3{
+    padding-top: 30%;
+        display: flex;
+        padding-left: 10%;
+        width: 50%;
+}
